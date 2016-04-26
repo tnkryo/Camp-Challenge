@@ -1,0 +1,4 @@
+CPU:Intel(R) Core(TM) i3-3217U CPU @ 1.80GHz
+ÉÅÉÇÉä:4.00 GB
+HDD:417.52 GB
+OS:Microsoft Windows 8.1
