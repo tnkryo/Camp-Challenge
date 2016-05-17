@@ -59,7 +59,7 @@
             for(int i =0;i < 10;i++){
                 text(out);
             }
-            if(type = true){
+            if(type == true){
                 out.print("この処理は正しく実行できました");
             } else {
                 out.print("正しく実行できませんでした");
